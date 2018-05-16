@@ -1,6 +1,8 @@
 # My stuff:
 constants.py*
 output.log
+.DS_STORE
+notes.docx*
 
 
 ### PyCharm ###
